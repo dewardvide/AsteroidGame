@@ -1,6 +1,8 @@
 # AsteroidGame
 Browser Based Asteroid Based Game Purely Vibe Coded
 
+https://github.com/dewardvide/AsteroidGame/blob/main/Screenshot%202025-04-04%20at%2013.50.31.png
+
 ## Overview
 
 Asteroid Hunter is a simple, browser-based game where the player controls a spaceship to collect asteroids. The game features:
