@@ -1,7 +1,7 @@
 # AsteroidGame
 Browser Based Asteroid Based Game Purely Vibe Coded
 
-https://github.com/dewardvide/AsteroidGame/blob/main/Screenshot%202025-04-04%20at%2013.50.31.png
+![](https://github.com/dewardvide/AsteroidGame/blob/main/Screenshot%202025-04-04%20at%2013.50.31.png)
 
 ## Overview
 
